@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777457023932",
+    "project_id": "finddust-6cee5",
+    "storage_bucket": "finddust-6cee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777457023932:android:6f85d908364fd39b02c9b9",
+        "android_client_info": {
+          "package_name": "com.heejung.finddust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777457023932-tl4q9gm9n4lu6edlj7jee8nrgk5jqkp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLe-HYIwV5TtiV6PIrKw-38kdiM0xgEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777457023932-tl4q9gm9n4lu6edlj7jee8nrgk5jqkp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
